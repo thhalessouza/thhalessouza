@@ -5,7 +5,7 @@
 # Hello, I'm Thales Souza! 
 
 
-[![thhalessouza GitHub stats](https://github-readme-stats.vercel.app/api?username=thhalessouza)](https://github.com/thhalessouza/github-readme-stats)
+[![thhalessouza GitHub stats](https://github-readme-stats.vercel.app/api?username=thhalessouza&theme=dark&show_icons=true)](https://github.com/thhalessouza/github-readme-stats)
 
 
 
