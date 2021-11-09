@@ -2,7 +2,7 @@
 
  
 
-# Hello, I'm Thales Souza! 
+# Olá, Eu sou Thales Souza! Seja muito bem-vinde. 
 
 
 [![thhalessouza GitHub stats](https://github-readme-stats.vercel.app/api?username=thhalessouza&theme=dark&show_icons=true)](https://github.com/thhalessouza/github-readme-stats)
